@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-public class scr_LimitMovement : MonoBehaviour
+public class scr_Pins : MonoBehaviour
 {
     // Start is called before the first frame update
     private Vector2 initialPosition, startPosition;
