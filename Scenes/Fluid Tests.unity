@@ -766,6 +766,30 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1321698475 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1123742526349164648, guid: 2363d2580bff9a744a51f6c1f3c63adb, type: 3}
+  m_PrefabInstance: {fileID: 1123742527469208771}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &1321698481
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1321698475}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 9c90781db9cebf24fa4f5feb26299692, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1481553994
 GameObject:
   m_ObjectHideFlags: 0
@@ -1236,6 +1260,26 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1123742526349164654, guid: 2363d2580bff9a744a51f6c1f3c63adb, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1123742526349164655, guid: 2363d2580bff9a744a51f6c1f3c63adb, type: 3}
+      propertyPath: m_Size.x
+      value: 3.02
+      objectReference: {fileID: 0}
+    - target: {fileID: 1123742526349164655, guid: 2363d2580bff9a744a51f6c1f3c63adb, type: 3}
+      propertyPath: m_Size.y
+      value: 5.533301
+      objectReference: {fileID: 0}
+    - target: {fileID: 1123742526349164655, guid: 2363d2580bff9a744a51f6c1f3c63adb, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 3779983321907253453, guid: c59ce82cc1d690f45a7af743923d8608, type: 3}
+    - target: {fileID: 1123742526349164655, guid: 2363d2580bff9a744a51f6c1f3c63adb, type: 3}
+      propertyPath: m_DrawMode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1123742526349164655, guid: 2363d2580bff9a744a51f6c1f3c63adb, type: 3}
+      propertyPath: m_SpriteSortPoint
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
